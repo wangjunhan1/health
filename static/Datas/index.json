@@ -1,0 +1,75 @@
+{
+	"ret": true,
+	"data": {
+		"city": "北京",
+		"swiperList": [{
+            "id": "001",
+            "imgUrl": "https://img.ydlcdn.com/file/2019/03/16/a099hmrtkp2ol7kl.png"
+          }, {
+            "id": "002",
+            "imgUrl": "https://img.ydlcdn.com/file/2019/04/05/2sbvcehcj014jk23.png"
+          }, {
+            "id": "003",
+            "imgUrl": "https://img.ydlcdn.com/file/2018/12/14/2luzyl67rjkzefg2.png"
+		    }],
+		"iconList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+            "content": "健康百科"
+          }, {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+            "content": "基本情况"
+          }, {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+            "content": "数据展示"
+          }, {
+            "id": "0006",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+            "content": "健康日志"
+          }],
+        "recommendList": [{
+            "id": "00001",
+            "imgUrl": "https://img.ydlcdn.com/file/2019/03/11/rf6ljoodo6fg2nho.jpg",
+            "title": "生理风险评估",
+            "content": "根据您填写的健康问卷和体检信息可以进行健康风险评估，以了解您当前的健康风险"
+          }, {
+            "id": "00002",
+            "imgUrl": "https://img.ydlcdn.com/file/2018/12/15/0rs33w23bxrobo8i.jpeg",
+            "title": "体质辨识",
+            "content": "体质辨识是依据中华中医药学会《中医体质分类与判定》标准，在中医体质理论指导下，根据量表设计"
+          }, {
+            "id": "00003",
+            "imgUrl": "https://img.ydlcdn.com/file/2018/11/30/tzycp6f4um3ureou.jpg",
+            "title": "压力测试",
+            "content": "心理测评分析，可以有效的帮助我们认清自己的心理问题和压力程度，更好的控制自己的情绪"
+          }, {
+            "id": "00004",
+            "imgUrl": "https://img.ydlcdn.com/file/2019/01/14/aq7hgt62gc2irdkw.jpeg",
+            "title": "习惯矫正",
+            "content": "习惯骄横心理测评分析，可以有效的帮助我们认清自己的心理问题和压力程度，更好的控制自己的情绪"
+          }],
+        "weekendList": [{
+            "id": "00001",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg",
+            "title": "承载杭城的历史之地",
+            "content": "饱经沧桑的地方诉述着这座城的段段衷肠"
+          }, {
+            "id": "00002",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a3/9c9d78e925e8bc.jpg_r_640x214_74656d68.jpg",
+            "title": "泡汤好去处",
+            "content": "泡在氤氲的温泉中，聆听冬天脚步的声音"
+          }, {
+            "id": "00003",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1510/c1/afe3ab32b3bc23.jpg_r_640x214_beb61760.jpg",
+            "title": "青山秀水，精致暖汤",
+            "content": "天然高品质温泉，这个冬天秀美容颜首选"
+          }, {
+            "id": "00004",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg",
+            "title": "美丽普陀山",
+            "content": "细数温州那些美到陶醉的赏秋地"
+          }]
+	}
+}
